@@ -93,3 +93,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# YouTube videos data, ffmpeg plugin
+zip
+data/
+ffmpeg-tlbx/
