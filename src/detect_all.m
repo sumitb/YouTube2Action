@@ -1,4 +1,3 @@
-
 % It expects img as main folder. img contains different folders for frames
 % from each video
     caltechPath = 'img'; % image folder path
@@ -22,7 +21,7 @@
                     fprintf('frame %s\n', imageFile(j).name);
                     
                     im = fullfile(caltechPath,category(i).name, imageFile(j).name);
-                    [top_boxes obj_found obj_ids count] = detect10k_demo(rcnn_model, rcnn_feat,im, 'out.jpg');
+                    [top_boxes obj_found obj_ids count] = detect10k_demo(rcnn_model, rcnn_feat, im, 'out.jpg');
                     obj_found = obj_found';
 %                     vid(1:count) = category(i).name;
 %                     frame(1:count) = imageFile(j).name;
