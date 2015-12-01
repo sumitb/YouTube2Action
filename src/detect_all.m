@@ -1,6 +1,6 @@
 % It expects img as main folder. img contains different folders for frames
 % from each video
-    caltechPath = 'img'; % image folder path
+    caltechPath = '../data/YouTubeImgs'; % image folder path
     category = dir(caltechPath);
     count_train = 0;
     count_test = 0;
@@ -10,7 +10,7 @@
         else
             fprintf('processing %s\n', category(i).name);
             % TODO: change image* to corresponding name
-            imageFile = dir(fullfile(caltechPath, category(i).name,'image*'));
+            imageFile = dir(fullfile(caltechPath, category(i).name, 'Picture*'));
             len = length(imageFile);
 
             for j = 1:len
