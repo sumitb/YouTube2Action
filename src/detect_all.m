@@ -1,6 +1,6 @@
 % It expects img as main folder. img contains different folders for frames
 % from each video
-    caltechPath = '../data/YouTubeImgs'; % image folder path
+    caltechPath = '../YouTube2Action/data/YouTubeImgs'; % image folder path
     category = dir(caltechPath);
     count_train = 0;
     count_test = 0;
@@ -12,6 +12,7 @@
             % TODO: change image* to corresponding name
             imageFile = dir(fullfile(caltechPath, category(i).name, 'Picture*'));
             len = length(imageFile);
+	    fdata = {};
 
             for j = 1:len
                 if imageFile(j).name(1) == '.'
@@ -30,7 +31,14 @@
                     % TODO: save return values from detect10k_demo 
 		    % have to maintain DS to save all or append every time
                     % this is for one image only
-                    save('test.mat', 'top_boxes','obj_found','obj_ids','-append')                      
+                    fdata{j, 1} = obj_ids;
+                    fdata{j, 2} = obj_found';
+                    fdata{j, 3} = top_boxes(:,5);
+                    fname = sprintf('YouTubeOutput/%s', category(i).name);
+                    if j == len
+                      save(strcat(fname,'.mat'), 'fdata');
+                    end      
+                      % saveas(filenumber,'../Youtube2Action/data/Temp', starcat(fname,'.mat'));	                      
                end
             end
         end
