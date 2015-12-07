@@ -3,12 +3,6 @@ psi = 0.3;
 rho = 0.7;
 
 % Variable initialization
-% vid_id = [];
-% object = [];
-% subject = [];
-% vid_name = [];
-% object_id = [];
-% subject_id = [];
 tuple_data = {};
 
 output_file = '../data/subject_object.mat';
@@ -62,21 +56,25 @@ for i = 1: length(category)
         %% Assuming a Matlab workspace file with first column having object ids
         %% Second col having the count
         %% Fourth column having an array of the the scores the id has scored 
-        for j = 1:size(hash_data, 1)		% Might be same as 'row'
-           hash_data{j, 5} = sum(hash_data{j, 4});			% Sum of Object_scores
-           hash_data{j, 6} = psi* hash_data{j, 2} + rho* hash_data{j, 5};	% Weighted Pic_score
+        for j = 1:size(hash_data, 1)		% Might be same as 'row-1'
+            hash_data{j, 5} = sum(hash_data{j, 4});			% Sum of Object_scores
+            hash_data{j, 6} = psi* hash_data{j, 2} + rho* hash_data{j, 5};	% Weighted Pic_score
         end
 
 	[sortedValues, sortIndex] = sort([hash_data{:, 6}], 'descend');  % Sort the values in descending order
-	maxIndex = sortIndex(1:2);  %# Get a linear index
-	ind = i - 2;		% Decrement i by 2 for 'parent and current dir' 
-	tuple_data{ind, 1} = strcat('vid', int2str(ind));	
-        tuple_data{ind, 2} = category(i).name(1:end-4);
-	% subject_id = [subject_id; hash_data{maxIndex(1), 1}];
-        % object_id = [object_id; hash_data{maxIndex(2), 1}];
+	if size(sortIndex, 2) == 1
+	    maxIndex = [sortIndex sortIndex]
+	else 
+	    maxIndex = sortIndex(1:2);  %# Get a linear index of top 2 values
+	end
 
-        tuple_data{ind, 3} = [hash_data{maxIndex(1), 3}];
-        tuple_data{ind, 4} = [hash_data{maxIndex(2), 3}];
+	ind = i;		% Decrement i by 2 for 'parent and current dir' 
+	tuple_data{ind, 1} = strcat('vid', int2str(ind));	% Video ID	
+        tuple_data{ind, 2} = category(i).name(1:end-4);		% Video Name
+        tuple_data{ind, 3} = [hash_data{maxIndex(1), 3}];	% Subject
+        tuple_data{ind, 4} = [hash_data{maxIndex(2), 3}];	% Object
+	% tuple_data{ind, 5} = [hash_data{maxIndex(1), 1}];	% Subject_ID
+        % tuple_data{ind, 6} = [hash_data{maxIndex(2), 1}];	% Object_ID
     end
 end
 
