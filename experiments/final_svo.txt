@@ -1,0 +1,259 @@
+vid1	rabbit	climb	Venetian blind
+vid2	person	walk	fish
+vid3	person	<>	horizontal bar
+vid4	person	<>	golf bag
+vid5	pork	<>	punch bowl
+vid6	sofa	catch	person
+vid7	strawberry	<>	person
+vid8	bowl	mix	oven
+vid9	person	catch	basketball
+vid10	tv or monitor	crawl	ray
+vid11	birdcage	<>	<>
+vid12	flute	play	person
+vid13	person	<>	binder
+vid14	person	<>	digital clock
+vid15	ladle	mix	person
+vid16	person	<>	cucumber
+vid17	person	<>	cucumber
+vid18	person	<>	cucumber
+vid19	straight razor	catch	table
+vid20	popsicle	mix	person
+vid21	person	mix	plastron
+vid22	fraise	mix	radicchio
+vid23	person	<>	microwave
+vid24	person	<>	band aid
+vid25	dog	box	person
+vid26	person	catch	bathing cap
+vid27	person	jump	volleyball
+vid28	person	mix	head cabbage
+vid29	tv or monitor	row	steel arch bridge
+vid30	panda	catch	giant panda
+vid31	person	mix	baby powder
+vid32	person	catch	plastic bag
+vid33	person	mix	volleyball
+vid34	person	<>	tv or monitor
+vid35	person	<>	tie
+vid36	<>	crawl	<>
+vid37	person	jump	hat with a wide brim
+vid38	person	apply	watercraft
+vid39	person	mix	bowl
+vid40	person	mix	bowl
+vid41	person	<>	<>
+vid42	person	mix	salad bowl
+vid43	Dutch oven	mix	frying pan
+vid44	person	<>	microwave
+vid45	wok	mix	person
+vid46	tennis ball	apply	ping-pong ball
+vid47	giant	skate	person
+vid48	deer	throw	<>
+vid49	person	<>	table
+vid50	person	<>	table
+vid51	tv or monitor	<>	person
+vid52	person	<>	lamp
+vid53	person	<>	bottlebrush
+vid54	person	<>	bottlebrush
+vid55	ping-pong ball	<>	person
+vid56	panda	<>	red panda
+vid57	domestic cat	catch	sofa
+vid58	person	mix	soup bowl
+vid59	person	<>	splint
+vid60	person	<>	motorcycle
+vid61	person	knead	hat with a wide brim
+vid62	person	<>	football
+vid63	external drive	crawl	table
+vid64	triangle	catch	<>
+vid65	washer	apply	<>
+vid66	dive bomber	skate	airplane
+vid67	brussels sprouts	apply	goal
+vid68	bowl	catch	table
+vid69	bowl	apply	black tie
+vid70	bowl	apply	halberd
+vid71	bowl	apply	halberd
+vid72	person	apply	halberd
+vid73	bowl	apply	halberd
+vid74	bowl	apply	halberd
+vid75	bowl	apply	halberd
+vid76	bowl	apply	halberd
+vid77	bowl	apply	halberd
+vid78	charcuterie	crawl	ricer
+vid79	spatula	crawl	ladle
+vid80	person	<>	<>
+vid81	person	apply	plastic bag
+vid82	chair	catch	punching bag
+vid83	wok	mix	frying pan
+vid84	person	<>	banana
+vid85	person	<>	false teeth
+vid86	person	<>	cigarette holder
+vid87	wok	mix	pan
+vid88	person	<>	sucking pig
+vid89	person	<>	microwave
+vid90	person	<>	crutch
+vid91	person	<>	crutch
+vid92	<>	<>	<>
+vid93	person	<>	lip-gloss
+vid94	banana	<>	person
+vid95	parsnip	<>	person
+vid96	poacher	mix	ashtray
+vid97	bowl	mix	frying pan
+vid98	bowl	mix	mashed potato
+vid99	person	mix	bowl
+vid100	poacher	mix	bowl
+vid101	whisk	mix	pan
+vid102	frying pan	mix	wok
+vid103	person	catch	<>
+vid104	ski	apply	person
+vid105	cucumber	mix	gherkin
+vid106	cucumber	mix	bush
+vid107	person	<>	horse
+vid108	person	catch	costume
+vid109	medicine ball	<>	person
+vid110	person	<>	bicycle
+vid111	person	apply	flute
+vid112	sitar	<>	person
+vid113	lion	<>	cat
+vid114	hedgehog	crawl	<>
+vid115	tv or monitor	apply	digital clock
+vid116	bicycle	catch	person
+vid117	person	<>	<>
+vid118	person	knead	flower pot
+vid119	table	horse	person
+vid120	cigarette case	<>	purse
+vid121	snuffbox	<>	sand dollar
+vid122	animal	<>	person
+vid123	<>	<>	burrito
+vid124	person	climb	bathing cap
+vid125	lion	mix	domestic cat
+vid126	tv or monitor	apply	cricket
+vid127	person	tie	table
+vid128	person	<>	flute
+vid129	person	lie	sunglasses
+vid130	car	catch	bowl
+vid131	person	toss	band aid
+vid132	wok	<>	guacamole
+vid133	person	catch	ping-pong ball
+vid134	person	<>	solar heater
+vid135	baby bed	throw	person
+vid136	person	<>	horizontal bar
+vid137	person	<>	locker
+vid138	person	climb	fish
+vid139	person	horse	horse
+vid140	person	<>	horse
+vid141	passe-partout	mix	bowl
+vid142	person	lie	bird
+vid143	person	climb	sofa
+vid144	person	crawl	false teeth
+vid145	person	<>	icetray
+vid146	rivet	apply	compass
+vid147	person	<>	tonometer
+vid148	doe	<>	beef
+vid149	car	<>	person
+vid150	person	<>	wombat
+vid151	person	<>	moneybag
+vid152	person	<>	ingredient
+vid153	person	apply	tie
+vid154	person	<>	violin
+vid155	basketball	climb	person
+vid156	person	mix	car
+vid157	person	<>	truck
+vid158	person	row	dog
+vid159	person	<>	beaker
+vid160	reliquary	<>	lamp
+vid161	bear	<>	horse
+vid162	tv or monitor	<>	goldfish
+vid163	person	horse	horse
+vid164	person	<>	car
+vid165	person	tie	radiator
+vid166	person	<>	tv or monitor
+vid167	person	jump	silo
+vid168	person	<>	stove
+vid169	croquet ball	<>	flower
+vid170	person	<>	elephant
+vid171	hood latch	crawl	dog
+vid172	person	<>	computer mouse
+vid173	person	<>	table
+vid174	person	jump	container
+vid175	tv or monitor	toss	digital clock
+vid176	<>	toss	afterburner
+vid177	person	<>	table
+vid178	sofa	crawl	aeroplane
+vid179	car	<>	tv or monitor
+vid180	person	catch	cheesecloth
+vid181	person	crawl	croquet ball
+vid182	person	<>	beaker
+vid183	<>	horse	dive bomber
+vid184	person	play	diaper
+vid185	person	speak	fish
+vid186	baby bed	catch	dog
+vid187	person	lie	tv or monitor
+vid188	person	row	fish
+vid189	person	catch	dog
+vid190	person	catch	dog
+vid191	person	toss	firebox
+vid192	person	skate	guitar
+vid193	person	crawl	neck brace
+vid194	person	crawl	diaper
+vid195	person	<>	icetray
+vid196	<>	<>	female mammal
+vid197	helmet	<>	person
+vid198	dog	catch	lamp
+vid199	dog	<>	dive bomber
+vid200	person	crawl	clementine
+vid201	person	knead	table
+vid202	person	<>	person
+vid203	person	apply	axe
+vid204	person	jump	milk can
+vid205	guitar	<>	computer keyboard
+vid206	person	jump	horse
+vid207	person	<>	<>
+vid208	person	catch	tin
+vid209	person	<>	vegetable
+vid210	person	catch	drum
+vid211	dog	<>	French bulldog
+vid212	<>	<>	boat
+vid213	dog	crawl	cat
+vid214	person	<>	watercraft
+vid215	table	box	person
+vid216	person	<>	cup or mug
+vid217	car	<>	<>
+vid218	person	<>	bath
+vid219	person	<>	balance beam
+vid220	table	<>	reception desk
+vid221	person	catch	broccoli
+vid222	person	knead	<>
+vid223	person	horse	camel racing
+vid224	turtle	<>	person
+vid225	person	apply	dog
+vid226	person	<>	<>
+vid227	person	<>	bathing cap
+vid228	person	catch	cargo container
+vid229	car	jump	person
+vid230	person	catch	sectional
+vid231	<>	<>	crowd
+vid232	person	<>	stair
+vid233	chair	toss	tv or monitor
+vid234	blue point Siamese	crawl	pet
+vid235	bagel	mix	frying pan
+vid236	swine	walk	vixen
+vid237	person	knead	sunglasses
+vid238	person	catch	dog
+vid239	person	catch	lapin
+vid240	person	knead	<>
+vid241	person	<>	nailbrush
+vid242	gorget	apply	coffee maker
+vid243	frying pan	mix	bowl
+vid244	bowl	catch	camshaft
+vid245	person	apply	brassiere
+vid246	person	catch	bowl
+vid247	airplane	jump	rudder
+vid248	airplane	bowl	tv or monitor
+vid249	animal	box	person
+vid250	person	box	shadow box
+vid251	person	walk	cargo door
+vid252	person	speak	car
+vid253	person	<>	dog
+vid254	basketball	apply	person
+vid255	person	knead	hat with a wide brim
+vid256	dog	<>	<>
+vid257	person	<>	table
+vid258	person	<>	uplift
+vid259	person	<>	table

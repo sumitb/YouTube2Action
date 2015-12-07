@@ -1,0 +1,259 @@
+vid1	-4wsuPCjDBc_5_15	rabbit	Venetian blind	RopeClimbing
+vid2	-7KMZQEsJW4_205_208	person	bluegill, Lepomis macrochirus	WalkingWithDog
+vid3	-8y1Q0rA3n8_108_115	person	horizontal bar	CliffDiving
+vid4	-8y1Q0rA3n8_95_102	person	golf bag	RockClimbingIndoor
+vid5	-9CUm-2cui8_39_44	collards, collard greens	punch bowl	RockClimbingIndoor
+vid6	-AwoiGR6c8M_10_14	sofa	person	MoppingFloor
+vid7	-Cv5LsqKUXc_17_25	strawberry	person	CuttingInKitchen
+vid8	-Cv5LsqKUXc_71_76	bowl	dishwasher, dish washer, dishwashing machine	Mixing
+vid9	-DKuLXYoY3g_14_20	person	basketball	MoppingFloor
+vid10	-DRy7rBg0IQ_31_37	tv or monitor	ray	FrontCrawl
+vid11	-FugkxLmGO4_5_16	birdcage	golden hamster, Syrian hamster, Mesocricetus auratus	PushUps
+vid12	-Ms9tsWmhyU_80_95	flute	person	PlayingFlute
+vid13	-YI0cxuNcq8_262_272	person	binder	PushUps
+vid14	-_aaMGK6GGw_57_61	person	digital clock	Haircut
+vid15	-_hbPLsZvvo_172_179	ladle	person	Mixing
+vid16	-_hbPLsZvvo_18_25	person	cucumber	CuttingInKitchen
+vid17	-_hbPLsZvvo_19_25	person	cucumber	CuttingInKitchen
+vid18	-_hbPLsZvvo_19_26	person	cucumber	CuttingInKitchen
+vid19	-_hbPLsZvvo_211_219	straight razor	table	MoppingFloor
+vid20	-_hbPLsZvvo_269_275	popsicle	person	Mixing
+vid21	-_hbPLsZvvo_288_305	person	plastron	Mixing
+vid22	-_hbPLsZvvo_323_328	fraise	radicchio	Mixing
+vid23	-_hbPLsZvvo_43_55	person	microwave	CuttingInKitchen
+vid24	-_hbPLsZvvo_49_55	person	band aid	CuttingInKitchen
+vid25	-_hbPLsZvvo_5_8	dog	person	BoxingSpeedBag
+vid26	-bjOB4zS0uE_100_105	person	bathing cap	MoppingFloor
+vid27	-dm-ds5rRaM_44_52	person	volleyball	LongJump
+vid28	-joBOHlg5J0_72_80	person	head cabbage	Mixing
+vid29	-mAoVOhKy0c_4_9	tv or monitor	steel arch bridge	Rowing
+vid30	-pUwIypksfE_13_23	giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca	giant panda	MoppingFloor
+vid31	-rkErLY0rRc_26_35	person	baby powder	Mixing
+vid32	-rkErLY0rRc_63_67	person	plastic bag	MoppingFloor
+vid33	-rvjK0lE3z4_33_43	person	volleyball	Mixing
+vid34	-s4-6QTT7HE_235_241	person	tv or monitor	BlowingCandles
+vid35	-t-ZWaJeH-o_0_15	person	tie	BlowingCandles
+vid36	-uT_1VDvXok_8_15	Indian rhinoceros, Rhinoceros unicornis	Malayan tapir, Indian tapir, Tapirus indicus	BabyCrawling
+vid37	-vKO3uSG6Do_3_14	person	hat with a wide brim	PoleVault
+vid38	-vg3vR86fu0_1_6	person	watercraft	Skiing
+vid39	-wa0umYJVGg_100_115	person	bowl	Mixing
+vid40	-wa0umYJVGg_117_123	person	bowl	Mixing
+vid41	-wa0umYJVGg_139_157	person	telephone jack, phone jack	CuttingInKitchen
+vid42	-wa0umYJVGg_168_176	person	salad bowl	Mixing
+vid43	-wa0umYJVGg_23_41	Dutch oven	frying pan	Mixing
+vid44	-wa0umYJVGg_271_276	person	microwave	CuttingInKitchen
+vid45	-wa0umYJVGg_286_290	wok	person	Mixing
+vid46	-zOrV-5vh1A_69_76	tennis ball	ping-pong ball	Skiing
+vid47	00jrXRMlZOY_0_10	giant	person	SkateBoarding
+vid48	02Z-kuB3IaM_2_13	anoa, dwarf buffalo, Anoa depressicornis	black rhinoceros, Diceros bicornis	HammerThrow
+vid49	04Gt01vatkk_248_265	person	table	CuttingInKitchen
+vid50	04Gt01vatkk_308_321	person	table	CuttingInKitchen
+vid51	05Gtb7_9tLU_0_9	tv or monitor	person	ThrowDiscus
+vid52	05gNigkqfNU_11_23	person	lamp	Knitting
+vid53	05gNigkqfNU_24_32	person	bottlebrush	CuttingInKitchen
+vid54	05gNigkqfNU_25_34	person	bottlebrush	CuttingInKitchen
+vid55	05gNigkqfNU_78_84	ping-pong ball	person	CuttingInKitchen
+vid56	06CbMa0kDr8_3_13	lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens	red panda	Knitting
+vid57	08pVpBq706k_175_212	domestic cat	sofa	MoppingFloor
+vid58	0GXq1An3yHI_22_35	person	soup bowl	Mixing
+vid59	0I4VKj4d0WI_24_40	person	splint	PlayingViolin
+vid60	0IDJG0q9j_k_1_24	person	motorcycle	Archery
+vid61	0M-PyX2DbZc_25_31	person	hat with a wide brim	HeadMassage
+vid62	0NPtAv3_uVI_46_54	person	surfing, surfboarding, surfriding	Skijet
+vid63	0ONJfp95yoE_1_10	external drive	table	BabyCrawling
+vid64	0RWJEOScToE_414_421	triangle	hand blower, blow dryer, blow drier, hair dryer, hair drier	MoppingFloor
+vid65	0SMOK2ql7Pg_5_12	washer	shower stall, shower bath	WritingOnBoard
+vid66	0bSz70pYAP0_5_15	dive bomber	airplane	Surfing
+vid67	0hyZ__3YhZc_279_283	brussels sprouts	snare drum, snare, side drum	Skiing
+vid68	0hyZ__3YhZc_289_295	bowl	table	MoppingFloor
+vid69	0hyZ__3YhZc_302_307	bowl	black tie	Skiing
+vid70	0hyZ__3YhZc_341_348	bowl	halberd	Skiing
+vid71	0hyZ__3YhZc_352_356	bowl	halberd	Skiing
+vid72	0hyZ__3YhZc_364_370	person	halberd	Skiing
+vid73	0hyZ__3YhZc_380_384	bowl	halberd	Skiing
+vid74	0hyZ__3YhZc_388_394	bowl	halberd	Skiing
+vid75	0hyZ__3YhZc_410_417	bowl	halberd	Skiing
+vid76	0hyZ__3YhZc_418_424	bowl	halberd	Skiing
+vid77	0hyZ__3YhZc_485_490	bowl	halberd	Skiing
+vid78	0hyZ__3YhZc_562_568	charcuterie	ricer	BabyCrawling
+vid79	0hyZ__3YhZc_575_580	spatula	ladle	BabyCrawling
+vid80	0hyZ__3YhZc_598_603	person	hard hat, tin hat, safety hat	Knitting
+vid81	0hyZ__3YhZc_632_637	person	plastic bag	Skiing
+vid82	0k1Ak8aTMVI_4_12	chair	punching bag	MoppingFloor
+vid83	0lh_UWF9ZP4_103_110	wok	frying pan	Mixing
+vid84	0lh_UWF9ZP4_138_145	person	banana	CuttingInKitchen
+vid85	0lh_UWF9ZP4_148_155	person	false teeth	CuttingInKitchen
+vid86	0lh_UWF9ZP4_157_160	person	cigarette holder	Knitting
+vid87	0lh_UWF9ZP4_165_170	wok	caldron, cauldron	Mixing
+vid88	0lh_UWF9ZP4_174_178	person	sucking pig	CuttingInKitchen
+vid89	0lh_UWF9ZP4_178_182	person	microwave	CuttingInKitchen
+vid90	0lh_UWF9ZP4_183_190	person	crutch	CuttingInKitchen
+vid91	0lh_UWF9ZP4_191_197	person	crutch	CuttingInKitchen
+vid92	0lh_UWF9ZP4_199_207	red rockfish, Sebastodes ruberrimus	Norway lobster, Nephrops norvegicus	CuttingInKitchen
+vid93	0lh_UWF9ZP4_215_226	person	lip-gloss	CuttingInKitchen
+vid94	0lh_UWF9ZP4_21_26	banana	person	CuttingInKitchen
+vid95	0lh_UWF9ZP4_27_31	parsnip	person	CuttingInKitchen
+vid96	0lh_UWF9ZP4_38_46	poacher	ashtray	Mixing
+vid97	0lh_UWF9ZP4_50_60	bowl	frying pan	Mixing
+vid98	0lh_UWF9ZP4_62_69	bowl	mashed potato	Mixing
+vid99	0lh_UWF9ZP4_71_77	person	bowl	Mixing
+vid100	0lh_UWF9ZP4_79_82	poacher	bowl	Mixing
+vid101	0lh_UWF9ZP4_82_87	whisk	reamer, juicer, juice reamer	Mixing
+vid102	0lh_UWF9ZP4_94_103	frying pan	wok	Mixing
+vid103	0piwbTivpDg_10_40	person	medicine chest, medicine cabinet	MoppingFloor
+vid104	0sUL0KCIc48_15_25	ski	person	Skiing
+vid105	0vmoZEaN_-o_4_12	cucumber	gherkin	Mixing
+vid106	0vmoZEaN_-o_5_21	cucumber	feijoa, pineapple guava	Mixing
+vid107	0wutCy2ZGOQ_4_10	person	hippopotamus, hippo, river horse, Hippopotamus amphibius	CliffDiving
+vid108	0xx13BuvVmo_25_36	person	toupee, toupe	MoppingFloor
+vid109	11xs9mFKObs_0_8	medicine ball	person	Skijet
+vid110	16iNk1hLJt4_37_40	person	bicycle	CricketShot
+vid111	1Dty_eGY9Ec_123_133	person	flute	Skiing
+vid112	1N_Ic2pBM1o_2_23	sitar	person	Nunchucks
+vid113	1QVn0FffExM_14_24	lion	manul, Pallas's cat, Felis manul	CliffDiving
+vid114	1RchFBCT9JU_43_53	hedgehog, Erinaceus europaeus, Erinaceus europeaeus	Canada porcupine, Erethizon dorsatum	BabyCrawling
+vid115	1Sp2__RCT0c_11_15	tv or monitor	digital clock	Skiing
+vid116	1TjqADyYyxI_36_45	bicycle	person	MoppingFloor
+vid117	1_6V30igzIk_5_15	person	common opossum, Didelphis virginiana, Didelphis marsupialis	CuttingInKitchen
+vid118	1dA1RQgPN3c_72_82	person	flower pot	HeadMassage
+vid119	1dYpcVv6n3Y_0_18	table	person	PommelHorse
+vid120	1dfR0A_BXjw_401_408	cigarette case	purse	CuttingInKitchen
+vid121	1dfR0A_BXjw_441_448	snuffbox	sand dollar	YoYo
+vid122	1dfR0A_BXjw_524_532	brachiopod, lamp shell, lampshell	person	CliffDiving
+vid123	1dfR0A_BXjw_545_560	giant conch, Strombus gigas	burrito	RockClimbingIndoor
+vid124	1dfR0A_BXjw_590_600	person	bathing cap	RopeClimbing
+vid125	1hPxGmTGarM_9_19	lion	domestic cat	Mixing
+vid126	1kYWws89W3Y_0_5	tv or monitor	punkie, punky, punkey, no-see-um, biting midge	Skiing
+vid127	1mIyMRPV8kg_9_17	person	table	BandMarching
+vid128	1pw5ZdRhiig_50_59	person	flute	PlayingViolin
+vid129	1qU-kF-km1Q_6_16	person	sunglasses	ShavingBeard
+vid130	1qV4wfjTYIo_151_164	tone arm, pickup, pickup arm	bowl	MoppingFloor
+vid131	1qxMJLkHDLw_0_9	person	band aid	PizzaTossing
+vid132	1rECrfrdNTo_200_207	wok	guacamole	BlowingCandles
+vid133	1sffYOXq4Iw_23_49	person	ping-pong ball	MoppingFloor
+vid134	21uB8g-jDZI_70_79	person	solar heater	CliffDiving
+vid135	229NvV0SRHw_0_5	baby bed	person	HammerThrow
+vid136	25NmudB2fqg_0_7	person	horizontal bar	Knitting
+vid137	27hs9W89FuI_0_10	person	locker	SoccerPenalty
+vid138	27mxaePkYB4_8_14	person	stegosaur, stegosaurus, Stegosaur stenops	RopeClimbing
+vid139	2F9jX7u5nOg_114_130	person	horse	HorseRiding
+vid140	2F9jX7u5nOg_83_97	person	horse	SoccerJuggling
+vid141	2FLsMPsywRc_45_63	passe-partout	bowl	Mixing
+vid142	2G9fkvBzzQE_10_20	person	bird	ShavingBeard
+vid143	2HpZvL-_fiY_40_44	person	sofa	RopeClimbing
+vid144	2I20ZTFHheg_96_104	person	false teeth	BabyCrawling
+vid145	2KrdBUFeFtY_22_27	person	icetray	Typing
+vid146	2L4oELbX8Ms_1_12	rivet	compass	Skiing
+vid147	2LgrGHWSy6k_122_135	person	tonometer	Haircut
+vid148	2MCpA01Sn_c_75_82	doe	Japanese deer, sika, Cervus nipon, Cervus sika	CliffDiving
+vid149	2Nn2CAeaI5k_72_77	car	person	Basketball
+vid150	2R_OAYQIkXM_14_22	person	wombat	Swing
+vid151	2YhDTpzxd3c_102_105	person	moneybag	BlowingCandles
+vid152	2YhDTpzxd3c_115_120	person	fifth wheel, spare	Skijet
+vid153	2YhDTpzxd3c_149_154	person	tie	ApplyLipstick
+vid154	2YhDTpzxd3c_166_170	person	viola da gamba, gamba, bass viol	BlowingCandles
+vid155	2YhDTpzxd3c_174_180	basketball	person	RopeClimbing
+vid156	2YhDTpzxd3c_223_232	person	car	Mixing
+vid157	2YhDTpzxd3c_22_27	person	lorry, camion	CliffDiving
+vid158	2YhDTpzxd3c_240_245	person	dog	Kayaking
+vid159	2YhDTpzxd3c_45_49	person	beaker	Diving
+vid160	2YhDTpzxd3c_98_101	reliquary	lamp	BlowingCandles
+vid161	2jXxtQRy47A_30_38	bear	wild boar, boar, Sus scrofa	CliffDiving
+vid162	2jkExrrm_sQ_19_25	tv or monitor	goldfish	JugglingBalls
+vid163	2mUMTFnQWaw_1_9	person	horse	HorseRiding
+vid164	2xpIT0L4GqE_1_10	person	car	Archery
+vid165	30GeJHYoerk_121_126	person	radiator	BandMarching
+vid166	30GeJHYoerk_63_75	person	tv or monitor	Knitting
+vid167	30GeJHYoerk_80_85	person	silo	JumpingJack
+vid168	30PpKtVT8Z4_35_50	person	stove	Drumming
+vid169	32_A0-er4Ws_16_20	croquet ball	acerola, barbados cherry, surinam cherry, West Indian cherry	BlowingCandles
+vid170	39Ce7I6nXIw_96_104	person	elephant	CliffDiving
+vid171	3FnUTQMJVXI_31_36	hood latch	dog	BabyCrawling
+vid172	3I9tSDU-OSk_17_22	person	computer mouse	BlowDryHair
+vid173	3OPQqH3YlHA_50_54	person	table	CuttingInKitchen
+vid174	3SKyc0aKx70_46_52	person	bunk, feed bunk	PoleVault
+vid175	3_51FhosiVY_93_101	tv or monitor	digital clock	PizzaTossing
+vid176	3chNlP5TeO8_0_10	missile defense system, missile defence system	afterburner	SkyDiving
+vid177	3doK4FQM5-k_46_57	person	table	BlowDryHair
+vid178	3eqFFRSXwGE_84_96	sofa	autogiro, autogyro, gyroplane	BabyCrawling
+vid179	3ftaoFnhTyY_140_150	car	tv or monitor	Skijet
+vid180	3lBHYoI5V8s_30_45	person	cheesecloth	MoppingFloor
+vid181	3mbBbFH9fAg_21_29	person	croquet ball	BabyCrawling
+vid182	3n_Kqak2JdA_48_71	person	beaker	Swing
+vid183	3opDcpPxllE_50_66	harbor seal, common seal, Phoca vitulina	dive bomber	HorseRace
+vid184	3qqEKTPxLNs_1_15	person	diaper	PlayingDaf
+vid185	3ytUOoa1SBE_12_23	person	platy, Platypoecilus maculatus	BalanceBeam
+vid186	3zgEl-OLFKE_12_15	baby bed	dog	MoppingFloor
+vid187	3zrVqwV29V8_69_76	person	tv or monitor	ShavingBeard
+vid188	4-1gpwkD7Hc_7_15	person	little auk, dovekie, Plautus alle	Kayaking
+vid189	45AGQSbodbU_5_15	person	dog	MoppingFloor
+vid190	47D9-U8hn5I_11_16	person	dog	MoppingFloor
+vid191	4D1o4FC8YbA_207_216	person	firebox	SkyDiving
+vid192	4D1o4FC8YbA_29_39	person	guitar	SkateBoarding
+vid193	4Hhdr1IPOGs_1_10	person	neck brace	BabyCrawling
+vid194	4Hhdr1IPOGs_90_98	person	diaper	BabyCrawling
+vid195	4JVpbYmqfcI_5_19	person	icetray	CuttingInKitchen
+vid196	4MjTb5A68VA_111_118	giant conch, Strombus gigas	female mammal	CliffDiving
+vid197	4PayIIIOeIs_230_238	helmet	person	Swing
+vid198	4PcL6-mjRNk_11_18	dog	lamp	MoppingFloor
+vid199	4PcL6-mjRNk_47_55	dog	dive bomber	RockClimbingIndoor
+vid200	4QYPZM01xFE_14_26	person	clementine	BabyCrawling
+vid201	4QdX5Q3qQsQ_38_44	person	table	HeadMassage
+vid202	4QdX5Q3qQsQ_6_14	person	person	BrushingTeeth
+vid203	4R-tumAGrtU_12_22	person	axe	Skiing
+vid204	4Tn5S48sCwg_110_118	person	milk can	PoleVault
+vid205	4UOVKok7j1U_1_8	guitar	computer keyboard	PlayingGuitar
+vid206	4VLrxtf7Z_8_0_7	person	horse	PoleVault
+vid207	4_WZN7uW0NY_140_145	person	pop bottle, soda bottle	RockClimbingIndoor
+vid208	4cgzdXlJksU_83_90	person	tin	MoppingFloor
+vid209	4eJJF11bIxM_1_9	person	pieplant, rhubarb	CuttingInKitchen
+vid210	4ge5_V-xhP0_138_142	person	drum	MoppingFloor
+vid211	4ge5_V-xhP0_35_42	dog	French bulldog	CliffDiving
+vid212	4ikH9ZRcF2Q_89_105	Pacific ridley, olive ridley, Lepidochelys olivacea	Portuguese man-of-war, man-of-war, jellyfish	CliffDiving
+vid213	4kQnrKvOTNg_15_24	dog	Abyssinian, Abyssinian cat	BabyCrawling
+vid214	4lXdVS697DQ_10_25	person	watercraft	Skijet
+vid215	4s_0-zIWEog_1_15	table	person	BoxingSpeedBag
+vid216	4t5POXt2e68_5_11	person	cup or mug	PlayingGuitar
+vid217	4wT7zM8XgXQ_5_11	car	armored car, armoured car	TaiChi
+vid218	4xVGpDmA4lE_23_33	person	toby, toby jug, toby fillpot jug	Knitting
+vid219	4yYapi-5QYQ_33_57	person	balance beam	CuttingInKitchen
+vid220	4yf2WP6K1gQ_28_32	table	reception desk	CuttingInKitchen
+vid221	4z3b4mnw5y4_56_60	person	Belgian endive, French endive, witloof	MoppingFloor
+vid222	4zPSShqsq-o_3_16	person	piggy bank, penny bank	HeadMassage
+vid223	5-8z5U-o4O4_0_3	person	camel racing	HorseRace
+vid224	504gE1DA_4g_1_6	diaper, nappy, napkin	person	CuttingInKitchen
+vid225	53dc4z7HLyg_16_23	person	dog	Skiing
+vid226	53dc4z7HLyg_25_29	person	ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus	StillRings
+vid227	57C93mpt6Xo_358_368	person	bathing cap	Haircut
+vid228	5AEldiUP408_65_71	person	cargo container	MoppingFloor
+vid229	5CS4nLI2ZX8_50_59	car	person	PoleVault
+vid230	5CU2JhYM8tY_14_45	person	sectional	MoppingFloor
+vid231	5E66Gk3V1Bc_23_30	Colorado potato beetle, Colorado beetle, potato bug, potato beetle, Leptinotarsa decemlineata	chow, chow chow	Swing
+vid232	5EXVeP6R3yc_105_108	person	brace, braces, orthodontic braces	RockClimbingIndoor
+vid233	5HAf_INrFy0_3_25	chair	tv or monitor	PizzaTossing
+vid234	5JLi7L1Kwp8_23_30	blue point Siamese	pet	BabyCrawling
+vid235	5JSbxHECb-I_97_110	bagel	frying pan	Mixing
+vid236	5K7Ru5s6YIw_8_11	swine	vixen	WalkingWithDog
+vid237	5L5MoemWC6g_10_13	person	sunglasses	HeadMassage
+vid238	5OuYhq6Zl0g_0_10	person	dog	MoppingFloor
+vid239	5OvgDatToBU_0_8	person	lapin	MoppingFloor
+vid240	5P6UU6m3cqk_57_75	person	ice pack, ice bag	HeadMassage
+vid241	5PpPOGU_0aA_65_75	person	nailbrush	StillRings
+vid242	5QJf-l4lPJw_133_138	gorget	coffee maker	Skiing
+vid243	5U3xz9Ovmhk_214_222	frying pan	bowl	Mixing
+vid244	5U3xz9Ovmhk_258_265	bowl	camshaft	MoppingFloor
+vid245	5U3xz9Ovmhk_99_105	person	brassiere	Skiing
+vid246	5U3xz9Ovmhk_9_15	person	bowl	MoppingFloor
+vid247	5W02895vT8c_312_322	airplane	rudder	LongJump
+vid248	5W02895vT8c_460_470	airplane	tv or monitor	Bowling
+vid249	5XxshEdcfAM_85_100	piston, plunger	person	BoxingPunchingBag
+vid250	5XxshEdcfAM_96_107	person	shadow box	BoxingPunchingBag
+vid251	5YJaS2Eswg0_22_26	person	cargo door	WalkingWithDog
+vid252	5dZ8PXABC30_14_20	person	car	BalanceBeam
+vid253	5dv8MSWlxoQ_10_40	person	dog	Haircut
+vid254	5fDBl1wT2Lk_34_39	basketball	person	Skiing
+vid255	5fq9iIxxA1s_12_27	person	hat with a wide brim	HeadMassage
+vid256	5l6acVf12S4_7_13	dog	giant conch, Strombus gigas	CliffDiving
+vid257	5x_OGEdO6Z8_0_21	person	table	Archery
+vid258	5zkCnHUnoYY_69_74	person	uplift	PlayingPiano
+vid259	60x_yxy7Sfw_1_7	person	table	Nunchucks
