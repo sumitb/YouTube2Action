@@ -3,6 +3,7 @@ psi = 0.3;
 rho = 0.7;
 
 % Variable initialization
+ind = 1;
 tuple_data = {};
 
 output_file = '../data/subject_object.mat';
@@ -12,7 +13,7 @@ category = dir(datapath);
 
 for i = 1: length(category)
     if category(i).name(1) == '.' | category(i).name(1) == '..'
-        continue;
+	continue;
     else
 	% Load matfile and obtain subject-object tuple
         load(strcat(datapath, category(i).name));
@@ -63,18 +64,18 @@ for i = 1: length(category)
 
 	[sortedValues, sortIndex] = sort([hash_data{:, 6}], 'descend');  % Sort the values in descending order
 	if size(sortIndex, 2) == 1
-	    maxIndex = [sortIndex sortIndex]
+	    maxIndex = [sortIndex sortIndex];
 	else 
 	    maxIndex = sortIndex(1:2);  %# Get a linear index of top 2 values
 	end
 
-	ind = i;		% Decrement i by 2 for 'parent and current dir' 
 	tuple_data{ind, 1} = strcat('vid', int2str(ind));	% Video ID	
         tuple_data{ind, 2} = category(i).name(1:end-4);		% Video Name
-        tuple_data{ind, 3} = [hash_data{maxIndex(1), 3}];	% Subject
-        tuple_data{ind, 4} = [hash_data{maxIndex(2), 3}];	% Object
+        tuple_data{ind, 3} = char(hash_data{maxIndex(1), 3});	% Subject
+        tuple_data{ind, 4} = char(hash_data{maxIndex(2), 3});	% Object
 	% tuple_data{ind, 5} = [hash_data{maxIndex(1), 1}];	% Subject_ID
         % tuple_data{ind, 6} = [hash_data{maxIndex(2), 1}];	% Object_ID
+	ind = ind + 1;		% Decrement i by 2 for 'parent and current dir' 
     end
 end
 
