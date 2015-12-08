@@ -95,6 +95,4 @@ docs/_build/
 target/
 
 # YouTube videos data, ffmpeg plugin
-zip
-data/
-ffmpeg-tlbx/
+data/*/
